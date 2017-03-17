@@ -1,4 +1,4 @@
-# УКРАЇНСЬКИЙ ПЕРЕКЛАД NubiaCamera.
+# УКРАЇНСЬКИЙ ПЕРЕКЛАД ДЛЯ NubiaCamera.
 
 Переклад для NubiaCamera взята з прошивки для ZTE Nubia Z11 mini
 
